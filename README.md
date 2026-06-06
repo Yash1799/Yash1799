@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Yash! 👋
 
-<!--
-**Yash1799/Yash1799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ About Me
+I am a **Mechanical Design Engineer** specializing in **Data Science & Business Analytics**. Having successfully completed a rigorous, hands-on curriculum handling extensive datasets, I bridge the gap between core engineering principles and advanced data analytics. 
 
-Here are some ideas to get you started:
+My unique value lies in combining structural logic, system diagnostics, and process driven problem solving with modern statistical modeling and data visualization to drive optimal business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 **Current Role:** Mechanical Design Engineer
+- 📊 **Core Focus:** Exploratory Data Analysis (EDA), Descriptive Statistics, Interactive Dashboard Design and Predictive Modeling.
+- 💡 **My Advantage:** I don't just write code, I leverage an engineering mindset to dissect complex, multi variable problems, clean messy data structures and extract clear executive insights.
+
+---
+
+### 🛠️ Tech Stack & Toolkit
+- **Data Science and ML:** Python (Pandas, NumPy, Scikit-Learn)
+- **Data Visualization and BI:** Tableau, Matplotlib, Seaborn
+- **Engineering Tools:** Mechanical Design, Solidworks, Autocad Layout Optimization
+- **Development and Environments:** Jupyter Notebooks, Google Colab, Git & GitHub
+
+---
+
+### 📂 Featured Analytics Projects
+* 🚘 **[Automotive Customer Segmentation & EDA](https://github.com/YOUR-USERNAME/austo-automobiles-eda)** - A Python based case study breaking down 1,581 consumer profiles to challenge standard marketing assumptions and optimize distribution strategies.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/yash-rane-275867156/
