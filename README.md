@@ -1,7 +1,7 @@
 # Hi, I'm Yash! 👋
 
 ### ⚙️ About Me
-I am a **Mechanical Design Engineer** specializing in **Data Science & Business Analytics**. Having successfully completed a rigorous, hands-on curriculum handling extensive datasets, I bridge the gap between core engineering principles and advanced data analytics. 
+I am a **Mechanical Design Engineer** specializing in **Data Science and Business Analytics**. Having successfully completed a rigorous, hands-on curriculum handling extensive datasets, I bridge the gap between core engineering principles and advanced data analytics. 
 
 My unique value lies in combining structural logic, system diagnostics, and process driven problem solving with modern statistical modeling and data visualization to drive optimal business decisions.
 
@@ -14,8 +14,8 @@ My unique value lies in combining structural logic, system diagnostics, and proc
 ### 🛠️ Tech Stack & Toolkit
 - **Data Science and ML:** Python (Pandas, NumPy, Scikit-Learn)
 - **Data Visualization and BI:** Tableau, Matplotlib, Seaborn
-- **Engineering Tools:** Mechanical Design, Solidworks, Autocad Layout Optimization
-- **Development and Environments:** Jupyter Notebooks, Google Colab, Git & GitHub
+- **Engineering Tools:** Mechanical Design, Solidworks, Autocad, Layout Optimization
+- **Development and Environments:** Jupyter Notebooks, Google Colab, Git and GitHub
 
 ---
 
