@@ -14,7 +14,7 @@ My unique value lies in combining structural logic, system diagnostics, and proc
 ### 🛠️ Tech Stack & Toolkit
 - **Data Science and ML:** Python (Pandas, NumPy, Scikit-Learn)
 - **Data Visualization and BI:** Tableau, Matplotlib, Seaborn
-- **Engineering Tools:** Mechanical Design, Solidworks, Autocad, Layout Optimization
+- **Engineering Tools:** Mechanical Design, Solidworks, Autocad
 - **Development and Environments:** Jupyter Notebooks, Google Colab, Git and GitHub
 
 ---
