@@ -20,7 +20,7 @@ My unique value lies in combining structural logic, system diagnostics, and proc
 ---
 
 ### 📂 Featured Analytics Projects
-* 🚘 **[Automotive Customer Segmentation & EDA](https://github.com/YOUR-USERNAME/austo-automobiles-eda)** - A Python based case study breaking down 1,581 consumer profiles to challenge standard marketing assumptions and optimize distribution strategies.
+* 🚘 **[Automotive Customer Segmentation & EDA](https://github.com/Yash1799/Austo-Automobiles-EDA)** - A Python based case study breaking down 1,581 consumer profiles to challenge standard marketing assumptions and optimize distribution strategies.
 
 ---
 
