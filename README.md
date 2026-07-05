@@ -1,28 +1,22 @@
-# Hi, I'm Yash! 👋
+# Hi, I'm Yash Rane! 👋
 
-### ⚙️ About Me
-I am a **Mechanical Design Engineer** specializing in **Data Science and Business Analytics**. Having successfully completed a rigorous, hands-on curriculum handling extensive datasets, I bridge the gap between core engineering principles and advanced data analytics. 
+### ⚙️ Mechanical Design Engineer and Data Science Practitioner
+I bridge the gap between core physical engineering principles and advanced digital data analytics. By combining structured engineering logic, 3D/2D diagnostics and system driven problem solving with modern predictive machine learning and interactive business intelligence, I transform complex, multi variable telemetry into clear corporate execution strategies.
 
-My unique value lies in combining structural logic, system diagnostics, and process driven problem solving with modern statistical modeling and data visualization to drive optimal business decisions.
-
-- 🚀 **Current Role:** Mechanical Design Engineer
-- 📊 **Core Focus:** Exploratory Data Analysis (EDA), Descriptive Statistics, Interactive Dashboard Design and Predictive Modeling.
-- 💡 **My Advantage:** I don't just write code, I leverage an engineering mindset to dissect complex, multi variable problems, clean messy data structures and extract clear executive insights.
+*   🚀 **Current Field:** Mechanical Design Engineering (3D CAD, 2D Manufacturing Drawings, Finite Element Analysis)
+*   📊 **Core Analytical Focus:** Supervised Machine Learning pipelines, Exploratory Data Analysis (EDA), Descriptive Statistics and Enterprise Dashboard Architecture.
+*   💡 **The Engineering Advantage:** I don't just clean messy datasets I apply root cause failure analysis and physical system logic to cross examine data anomalies and deliver rock solid, production ready models.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
-- **Data Science and ML:** Python (Pandas, NumPy, Scikit-Learn)
-- **Data Visualization and BI:** Tableau, Matplotlib, Seaborn
-- **Engineering Tools:** Mechanical Design, Solidworks, Autocad
-- **Development and Environments:** Jupyter Notebooks, Google Colab, Git and GitHub
-
----
-
-### 📂 Featured Analytics Projects
-* 🚘 **[Automotive Customer Segmentation & EDA](https://github.com/yash-rane-17/Austo-Automobiles-EDA)** - A Python based case study breaking down 1,581 consumer profiles to challenge standard marketing assumptions and optimize distribution strategies.
+### 🛠️ Core Tech Stack & Enterprise Toolkit
+*   **Data Science and Machine Learning:** Python (Pandas, NumPy, Scikit-Learn), Predictive Frameworks, Hyperparameter Tuning, Classification Modeling.
+*   **Data Visualization and Business Intelligence:** Tableau Desktop and Tableau Public (Advanced Parameters, Dynamic Storyboarding, Cross Filter Dashboards), Matplotlib, Seaborn.
+*   **Engineering and Physical Design:** SolidWorks, AutoCAD.
+*   **Development Ecosystem:** Jupyter Notebooks, Git and GitHub, Google Colab.
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** https://www.linkedin.com/in/yash-rane-275867156/
+*   **LinkedIn:** (https://www.linkedin.com/in/yash-rane-275867156/)
+*   **Email:** (rane.yash.n@gmail.com)
